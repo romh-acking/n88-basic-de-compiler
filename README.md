@@ -1,6 +1,6 @@
 [//]: <> (This readme is in the markdown format. Please preview in a markdown parser.)
 
-# N88 (De)compiler
+# N88 BASIC (De)compiler
 
 ## About
 
